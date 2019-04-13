@@ -69,8 +69,8 @@ class db {
                           quat_y DOUBLE,
                           quat_z DOUBLE,
                           quat_w DOUBLE,
-                          email varchar(320),
-                          tester int,
+                          email VARCHAR(320),
+                          tester INT,
                           date_created DATETIME,
                           status TINYINT,
                           PRIMARY KEY  (ID)
